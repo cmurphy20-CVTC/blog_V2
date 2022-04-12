@@ -1,2 +1,2 @@
 # blog_V2
-This verison has mongoose install to save posts.
+This verison has mongoDB to save posts. 
